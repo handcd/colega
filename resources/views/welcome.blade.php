@@ -85,7 +85,7 @@
                 <div class="links">
                     <a href="https://laravel.com/docs">¿Qué es Colega?</a>
                     <a href="https://laracasts.com">¿Cómo me puede ayudar?</a>
-                    <a href="https://laravel-news.com">Precio</a>
+                    <a href="https://laravel-news.com">Precios</a>
                     <a href="https://forge.laravel.com">Blog</a>
                     <a href="https://github.com/laravel/laravel">Términos y Condiciones</a>
                 </div>
